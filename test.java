@@ -4,6 +4,6 @@ public class Test{
 		String s="Thomas";
 		String s="Daniel";
 		String s="Christian";
-		System.out.println("Hello World"+s);
+		System.out.println("Hello World "+s+"!");
 	}
 }
