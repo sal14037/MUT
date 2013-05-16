@@ -1,7 +1,9 @@
 public class Test{
 
 	public void main(string [] args) {
-		System.out.println("Hello World");
-		
+		String s="Thomas";
+		String s="Daniel";
+		String s="Christian";
+		System.out.println("Hello World"+s);
 	}
 }
